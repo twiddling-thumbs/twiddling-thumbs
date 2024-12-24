@@ -6,7 +6,7 @@
 
 🌟 Current Role: Software Engineer
 
-💻 Tech Stack: Python, Machine Learning, Data Science, Blockchain
+💻 Tech Stack: Python, Development, Machine Learning, Data Science, Blockchain
 
 
 🤖 Machine Learning: Experience with ML algorithms, data preprocessing, model training, and evaluation
