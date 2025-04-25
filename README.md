@@ -38,7 +38,6 @@ Machine Learning: ![Static Badge](https://img.shields.io/badge/Scikit-%23044B7F)
 
 Tools & Technologies: ![Static Badge](https://img.shields.io/badge/Docker-%23edaf97)
 ,![Static Badge](https://img.shields.io/badge/Git-%23c49792)
-,![Static Badge](https://img.shields.io/badge/PostgreSQL-%23D1DEDE)
 ,![Static Badge](https://img.shields.io/badge/MongoDB-%23253237)
 ,![Static Badge](https://img.shields.io/badge/Metamask-yellow)
 
